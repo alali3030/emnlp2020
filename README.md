@@ -24,4 +24,4 @@ Multi-label score is f1-score of 0.59 threshold of 0.35, roc auc score is 0.837:
      weighted avg       0.53      0.61      0.56       283
       samples avg       0.40      0.41      0.38       283
 
-Initial iintuition is to add more labeled data for scores under 0.5 which are BM, MnA, Practice, and RnD
+Initial intuition is to add more labeled data for scores under 0.5 which are BM, MnA, Practice, and RnD
