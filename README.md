@@ -8,8 +8,8 @@ There are 2 Notebooks:
 
 
 Multi-label score is f1-score of 0.59 threshold of 0.35, roc auc score is 0.837:
-                 precision    recall  f1-score   support
-
+                 
+                precision    recall  f1-score   support
           BM       0.40      0.12      0.18        17
          Ops       0.55      0.64      0.59        33
          MnA       0.00      0.00      0.00        10
