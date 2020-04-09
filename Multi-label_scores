@@ -1,0 +1,13 @@
+                  precision    recall  f1-score   support
+
+          BM       0.00      0.00      0.00        13
+         Ops       0.51      0.68      0.58        37
+          CX       0.62      0.67      0.64        42
+    Practice       0.31      0.38      0.34        26
+     Product       0.61      0.91      0.73        74
+     Enabler       0.65      0.91      0.76        77
+
+   micro avg       0.57      0.74      0.65       269
+   macro avg       0.45      0.59      0.51       269
+weighted avg       0.55      0.74      0.63       269
+ samples avg       0.41      0.48      0.42       269
